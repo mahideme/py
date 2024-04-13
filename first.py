@@ -86,6 +86,12 @@ for i in range: print("hello world")'''
 # for i in range(10):
 #     if i%2==0: print(i,"-the number is even")
 #     else: print(i,"-the number is odd")
+
+'''for x in [0,1,2,3,4,5]:
+    if (x%2==0):
+        print (x)
+'''
+
 '''a=[1,2,3,4,5,6,7,8,9,10]
 for i in a:
     b=i%2
@@ -168,6 +174,7 @@ for i in l:
         print("next try\n")
 print("successfully finished")"""
 ### specific Exceptions like ZeroDivisionError, ValueError, TypeError, RuntimeError
+
 
 
 
